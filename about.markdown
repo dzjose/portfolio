@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: _site/assets/images/image1.jpg
+image: /assets/images/image1.jpg
 ---
 
 Hello, I'm Jose. I am currently a student at Cal State SanBernardino that is majoring in computer 
