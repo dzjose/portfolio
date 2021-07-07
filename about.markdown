@@ -10,6 +10,7 @@ engineering. I am a very competitive person that enjoys a good challenge. In my 
 find me playing games such as Call of Duty, and Valorant. 
 
 ![]({{ page.image }})
+_site/assets/images/image1.jpg
 
 
 
